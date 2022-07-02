@@ -1,0 +1,21 @@
+p{
+    color: black;
+    background-color: antiquewhite;
+    font-weight: bold;
+    font-size: large;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    display: inline;
+}
+small{
+    display: block;
+    font-size: 30px;
+    color: red;
+}
+#blue{
+    color: blue;
+}
